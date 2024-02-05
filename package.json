@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pySatellite/satellite-express/issues"
   },
-  "homepage": "https://github.com/pySatellite/satellite-express#readme"
+  "homepage": "https://github.com/pySatellite/satellite-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
