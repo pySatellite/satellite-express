@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/pySatellite/satellite-express#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "pysatellite-common-fun": "^0.2.1"
   }
 }
